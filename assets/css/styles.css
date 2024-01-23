@@ -266,6 +266,7 @@ img {
   transform: scale(1.2);
   transform-origin: top;
   justify-self: center;
+  filter: drop-shadow(10px 5px 13px #292929);
 }
 .home__data {
   text-align: center;
